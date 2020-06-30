@@ -1,6 +1,6 @@
 # Train scheduling  
 
-This repo contains my researches in order to solve the [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge).  
+This repo contains some researches in order to solve the [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge).  
 
 ![](https://github.com/guerinsylvain/train-scheduling/blob/master/docs/flat-land-demo.gif)  
 

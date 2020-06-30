@@ -1,4 +1,4 @@
-# train-scheduling  
+# Train scheduling  
 
 This repo contains my researches in order to solve the [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge).  
 

@@ -13,6 +13,8 @@ This repo contains my researches in order to solve the [Flatland Challenge](http
 ## Abstract
 The [Flatland Challenge](https://www.aicrowd.com/challenges/flatland-challenge) is a competition to foster progress in multi-agent reinforcement learning for any re-scheduling problem (RSP). The challenge addresses a real-world problem faced by many transportation and logistics companies around the world (such as the Swiss Federal Railways, SBB. Different tasks related to RSP on a simplified 2D multi-agent railway simulation must be solved. Your contribution may shape the way modern traffic management systems (TMS) are implemented not only in railway but also in other areas of transportation and logistics. This will be the first of a series of challenges related to re-scheduling and complex transportation systems.  
 
+The research group at SBB (Swiss Federal Railways) has developed a high-performance simulator which simulates the dynamics of train traffic as well as the railway infrastructure. Different approaches for automated traffic management systems (TMS) are currently under investigation. The role of the traffic management system is to select routes for all trains and decide on their priorities at switches in order to optimize traffic flow across the network.
+
 <a id="setup"></a>
 ## Setup
 

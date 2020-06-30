@@ -1,4 +1,7 @@
-# train-scheduling
+# train-scheduling  
+
+![](https://github.com/guerinsylvain/train-scheduling/blob/master/docs/flat-land-demo.gif)  
+
 
 [Setup](#setup)  
 &nbsp;&nbsp;&nbsp;[Install and configure Python](#setup-python)  
